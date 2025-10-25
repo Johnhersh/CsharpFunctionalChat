@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsharpFunctionalApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+853d717312a32528780a4e0b0f865831c5f13a23")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsharpFunctionalApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsharpFunctionalApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
